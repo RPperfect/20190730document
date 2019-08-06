@@ -1,1 +1,4 @@
-
+GBDT:
+   是xgboost算法的一个代表，梯度提升决策树，又名MART
+   
+AdaBoost:
